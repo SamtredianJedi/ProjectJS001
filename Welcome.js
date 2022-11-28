@@ -1,1 +1,1 @@
-console.log('Debugg');
+console.log('xoar gadaob chemi');
